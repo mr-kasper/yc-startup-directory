@@ -79,4 +79,4 @@ npm run dev
 
 ## 🔗 Links
 
-- [Live Demo]()
+- [Live Demo](https://yc-startup-directory-eta.vercel.app/)
